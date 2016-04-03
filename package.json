@@ -1,0 +1,36 @@
+{
+  "name": "location-services",
+  "version": "0.1.0",
+  "description": "Javascript / Meteor Proxy Services for Geocoding/Routing Services like Nominatim/Photon & Graphhopper",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smallstack/location-services.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "meteor",
+    "proxy",
+    "services",
+    "geocoding",
+    "routing",
+    "nominatim",
+    "photon",
+    "graphhopper"
+  ],
+  "author": "smallstack.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smallstack/location-services/issues"
+  },
+  "homepage": "https://github.com/smallstack/location-services#readme"
+}

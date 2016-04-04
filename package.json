@@ -1,5 +1,5 @@
 {
-  "name": "location-services",
+  "name": "smallstack-location-services",
   "version": "0.1.0",
   "description": "Javascript / Meteor Proxy Services for Geocoding/Routing Services like Nominatim/Photon & Graphhopper",
   "main": "index.js",
